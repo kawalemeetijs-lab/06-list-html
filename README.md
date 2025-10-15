@@ -1,2 +1,14 @@
 # 06-list-html
-&lt;h2>Unordered List&lt;/h2> &lt;ul>     &lt;li>Apples&lt;/li>     &lt;li>Bananas&lt;/li>     &lt;li>Cherries&lt;/li> &lt;/ul>  &lt;h2>Ordered List&lt;/h2> &lt;ol>     &lt;li>First Item&lt;/li>     &lt;li>Second Item&lt;/li>     &lt;li>Third Item&lt;/li> &lt;/ol>
+<h2>Unordered List</h2>
+<ul>
+    <li>Apples</li>
+    <li>Bananas</li>
+    <li>Cherries</li>
+</ul>
+
+<h2>Ordered List</h2>
+<ol>
+    <li>First Item</li>
+    <li>Second Item</li>
+    <li>Third Item</li>
+</ol>
